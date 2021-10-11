@@ -1,0 +1,15 @@
+Time : 18:16:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'qid' in 'field list'
+Raw SQL : INSERT IGNORE INTO answers_result (command, uid, gid, qid) VALUES (:command, :uid, :gid, :qid)
+
+Time : 18:16:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'qid' in 'field list'
+Raw SQL : INSERT IGNORE INTO answers_result (command, uid, gid, qid) VALUES (:command, :uid, :gid, :qid)
+
+Time : 18:16:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'qid' in 'field list'
+Raw SQL : INSERT IGNORE INTO answers_result (command, uid, gid, qid) VALUES (:command, :uid, :gid, :qid)
+
+Time : 16:49:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gid' in 'where clause'
+Raw SQL : UPDATE games set result_count = :result_count, status = :status where gid = :gid

@@ -1,0 +1,59 @@
+Time : 10:05:51
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:04:51
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:04:18
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:04:15
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:04:02
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:03:54
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:03:50
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:03:48
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:03:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:02:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:01:42
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:01:26
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:01:18
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:01:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id
+
+Time : 10:01:12
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select 1 from questions where id = :id

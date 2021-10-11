@@ -1,0 +1,243 @@
+Time : 14:01:29
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:01:20
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:56
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:41
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:33
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:29
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:27
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 14:00:20
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:59:56
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:59:48
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:59:32
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:59:23
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:59:18
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:59:16
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:58:56
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:58:24
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:58:07
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:57:59
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:57:55
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 13:57:53
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select id from users where login = :login and firstname = :firstname and lastname = :lastname
+
+Time : 11:58:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:58:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:58:18
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:58:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:58:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:56:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:56:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:55:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:55:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:55:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:55:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:54:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:54:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:54:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:54:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:53:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:52:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:53
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)
+
+Time : 11:51:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AlexDevPhp' for key 'login'
+Raw SQL : INSERT INTO users (login, firstname, lastname, tid) VALUES (:login, :firstname, :lastname, :tid)

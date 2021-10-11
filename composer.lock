@@ -1,0 +1,117 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c20c717d7f64b2725a58d0bdbd6078bf",
+    "packages": [
+        {
+            "name": "lincanbin/php-pdo-mysql-class",
+            "version": "v2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lincanbin/PHP-PDO-MySQL-Class.git",
+                "reference": "0e61a494ca0d2b044d2ae1137e18cc13b05d87ba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lincanbin/PHP-PDO-MySQL-Class/zipball/0e61a494ca0d2b044d2ae1137e18cc13b05d87ba",
+                "reference": "0e61a494ca0d2b044d2ae1137e18cc13b05d87ba",
+                "shasum": ""
+            },
+            "require": {
+                "ext-pdo": "*",
+                "ext-pdo_mysql": "*",
+                "php": ">=5.3.6"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/PDO.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "lincanbin",
+                    "email": "lincanbin@hotmail.com"
+                }
+            ],
+            "description": "A PHP MySQL PDO class similar to the the Python MySQLdb, which supports iterator and parameter binding when using 'WHERE IN' statement.",
+            "keywords": [
+                "database",
+                "iterator",
+                "mysql",
+                "pdo"
+            ],
+            "time": "2019-01-28T06:57:37+00:00"
+        },
+        {
+            "name": "telegram-bot/api",
+            "version": "v2.3.13",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TelegramBot/Api.git",
+                "reference": "8d34f3ccd3230a9fd7c7fd9ba8ec0110a059f781"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TelegramBot/Api/zipball/8d34f3ccd3230a9fd7c7fd9ba8ec0110a059f781",
+                "reference": "8d34f3ccd3230a9fd7c7fd9ba8ec0110a059f781",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "codeception/codeception": "*",
+                "phpunit/phpunit": "~4.0",
+                "squizlabs/php_codesniffer": "2.*"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "TelegramBot\\Api\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ilya Gusev",
+                    "email": "mail@igusev.ru",
+                    "homepage": "https://php-cat.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP Wrapper for Telegram Bot API",
+            "homepage": "https://github.com/TelegramBot/Api",
+            "keywords": [
+                "bot",
+                "bot api",
+                "php",
+                "telegram"
+            ],
+            "time": "2018-04-30T11:46:15+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

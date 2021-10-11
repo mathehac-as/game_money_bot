@@ -1,0 +1,271 @@
+Time : 18:01:04
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:52
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:50
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:34
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:26
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:22
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:20
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 18:00:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:59:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:59:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:59:15
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:59:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:59:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:59:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '249951093' for key 'uid'
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:58:52
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:58:20
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:58:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:57:56
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:57:52
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:57:50
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid)
+
+Time : 17:55:57
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:55:12
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:54:56
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:54:12
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:54:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:53:56
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:53:24
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:53:12
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:53:08
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:53:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:53:00
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:56
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:54
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:40
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:24
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:16
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:11
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:09
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:05
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:52:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:51:32
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:51:16
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:51:07
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:51:05
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:51:03
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:51:01
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:50:05
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:49:33
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:49:16
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:49:08
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:49:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:49:02
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid1, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid2
+
+Time : 17:47:27
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:46:27
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:45:39
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:45:27
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:44:55
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:44:39
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:44:38
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:44:31
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:44:27
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:44:24
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:43:38
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:43:06
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:42:50
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:42:42
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:42:38
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 17:42:36
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO users_game (count_questions, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid

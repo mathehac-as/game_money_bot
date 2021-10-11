@@ -1,0 +1,127 @@
+Time : 10:55:59
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:54:59
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:53:59
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:53:27
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:53:10
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:53:02
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:52:58
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:52:56
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:46:49
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:45:49
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:44:49
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:44:17
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:44:01
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:43:53
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:43:49
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:43:46
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:42:50
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:41:50
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:40:50
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:40:18
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:40:02
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:39:54
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:39:50
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:39:48
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : INSERT INTO users_game (count_questions, gid, uid) VALUES (:count_questions, :gid, :uid) ON DUPLICATE KEY UPDATE count_questions_result = 0, gid = :gid
+
+Time : 10:03:50
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:02:49
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:01:49
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:01:17
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:01:01
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:00:52
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:00:48
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
+
+Time : 10:00:46
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`alex007008_gbot`.`games`, CONSTRAINT `games_ibfk_2` FOREIGN KEY (`uid`) REFERENCES `users` (`id`))
+Raw SQL : INSERT INTO games (uid) VALUES (:uid)
